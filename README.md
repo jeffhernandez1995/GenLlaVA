@@ -1,2 +1,2 @@
-# GenLlaVA
-Code for Generative Visual Instruction Tuning
+# Generative Visual Instruction Tuning
+Under construction, coming soon!
